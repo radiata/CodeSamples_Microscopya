@@ -1,0 +1,24 @@
+{
+    "name": "Puzzle.Disc",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8e29ed4a4e7edfa4599deee18c13dc90",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:18054c518d418744080efe4cabf3398a",
+        "GUID:abf6e5db493f5254c87c083fbfcff4fc",
+        "GUID:b951562470e83a4439f9db37d9547e65",
+        "GUID:3ff19fedd01969b4e8348d63683a5b87",
+        "GUID:94037d8ec1c3bf4438c91ed7bff01f45",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547",
+        "GUID:3532751d016ea624e8a1364aef98331b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

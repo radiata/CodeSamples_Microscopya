@@ -1,0 +1,28 @@
+{
+    "name": "InputHandler",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1ebea15c3fde434439209df3f948e81a",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:5c0374c445871f24192e2d4fb33a6543",
+        "GUID:dfde82eae4e29fb49a08e44bc6359a12",
+        "GUID:181207092f284514cbdb2f8db2e614e7",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:135a2a6c0a8baeb4790dc861efea0a2d",
+        "GUID:416f11bdfbd2db244be529feec5db14e",
+        "GUID:7a947f84a40081d4b865968e9a064874",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547",
+        "GUID:faa12997003e5f246a0a2d146b6883b9",
+        "GUID:8292d25f3aff2ee43bb506eedff8fe9d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

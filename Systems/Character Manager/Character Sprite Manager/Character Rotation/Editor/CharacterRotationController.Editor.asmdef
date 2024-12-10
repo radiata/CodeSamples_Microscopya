@@ -1,0 +1,19 @@
+{
+    "name": "CharacterRotationController.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:68d8e1945c28af94d8201afd03fac7b0",
+        "GUID:5438831e620f4db4791e9d8d2a2bef0c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

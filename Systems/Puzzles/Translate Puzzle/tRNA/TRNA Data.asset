@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5abafdd2de35edc45a4adced49db4774, type: 3}
+  m_Name: TRNA Data
+  m_EditorClassIdentifier: 
+  prefabTRNA: {fileID: 8924516428411131351, guid: 8654364d89826184c9a38fd77f4f0b68, type: 3}
+  sprite_EndCodon: {fileID: 0}
+  sprite_Generic: {fileID: 0}
+  sprite_AAA: {fileID: 0}
+  sprite_AAC: {fileID: 0}
+  sprite_AAG: {fileID: 0}
+  sprite_AAU: {fileID: 0}
+  sprite_ACA: {fileID: 0}
+  sprite_ACC: {fileID: 0}
+  sprite_ACG: {fileID: 0}
+  sprite_ACU: {fileID: 0}
+  sprite_AGA: {fileID: 0}
+  sprite_AGC: {fileID: 0}
+  sprite_AGG: {fileID: 0}
+  sprite_AGU: {fileID: 21300000, guid: c84104d71d6ce6941bc9eaa718c3e68e, type: 3}
+  sprite_AUA: {fileID: 0}
+  sprite_AUC: {fileID: 0}
+  sprite_AUG: {fileID: 0}
+  sprite_AUU: {fileID: 0}
+  sprite_CAA: {fileID: 0}
+  sprite_CAC: {fileID: 0}
+  sprite_CAG: {fileID: 21300000, guid: cc4ceb04dcf8b4345b249a7ccfd23404, type: 3}
+  sprite_CAU: {fileID: 0}
+  sprite_CCA: {fileID: 0}
+  sprite_CCC: {fileID: 0}
+  sprite_CCG: {fileID: 0}
+  sprite_CCU: {fileID: 0}
+  sprite_CGA: {fileID: 0}
+  sprite_CGC: {fileID: 0}
+  sprite_CGG: {fileID: 0}
+  sprite_CGU: {fileID: 0}
+  sprite_CUA: {fileID: 21300000, guid: 44e8d018eed162344b3a4eafa152160d, type: 3}
+  sprite_CUC: {fileID: 21300000, guid: 826b6087b7b978341851f88c3d35b1ca, type: 3}
+  sprite_CUG: {fileID: 0}
+  sprite_CUU: {fileID: 0}
+  sprite_GAA: {fileID: 0}
+  sprite_GAC: {fileID: 21300000, guid: b90e67db2a9ecf147b8ca9c93b8cc038, type: 3}
+  sprite_GAG: {fileID: 0}
+  sprite_GAU: {fileID: 0}
+  sprite_GCA: {fileID: 0}
+  sprite_GCC: {fileID: 0}
+  sprite_GCG: {fileID: 0}
+  sprite_GCU: {fileID: 0}
+  sprite_GGA: {fileID: 21300000, guid: 7f04c4cdd2ecb644a98f22d7a8210d5c, type: 3}
+  sprite_GGC: {fileID: 21300000, guid: e57b0de1e0568ed45877fb9394147f71, type: 3}
+  sprite_GGG: {fileID: 21300000, guid: 2f2662ee9f5d6c743bbbb97d11cc443b, type: 3}
+  sprite_GGU: {fileID: 0}
+  sprite_GUA: {fileID: 0}
+  sprite_GUC: {fileID: 21300000, guid: c6b257d7f479b0740aee8d153410c080, type: 3}
+  sprite_GUG: {fileID: 0}
+  sprite_GUU: {fileID: 0}
+  sprite_UAA: {fileID: 0}
+  sprite_UAC: {fileID: 0}
+  sprite_UAG: {fileID: 0}
+  sprite_UAU: {fileID: 0}
+  sprite_UCA: {fileID: 0}
+  sprite_UCC: {fileID: 0}
+  sprite_UCG: {fileID: 21300000, guid: dde3b04902c81c7409a9daf57a8dba94, type: 3}
+  sprite_UCU: {fileID: 0}
+  sprite_UGA: {fileID: 0}
+  sprite_UGC: {fileID: 0}
+  sprite_UGG: {fileID: 0}
+  sprite_UGU: {fileID: 0}
+  sprite_UUA: {fileID: 0}
+  sprite_UUC: {fileID: 0}
+  sprite_UUG: {fileID: 0}
+  sprite_UUU: {fileID: 0}

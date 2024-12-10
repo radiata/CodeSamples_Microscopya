@@ -1,0 +1,21 @@
+{
+    "name": "PuzzleManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:7aee1e6b9506a4643ab8ca78397b5dc5",
+        "GUID:181207092f284514cbdb2f8db2e614e7",
+        "GUID:de3c9289f86663b459c701515583384f",
+        "GUID:93d9624d4511b134bb4042178bd25bde"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

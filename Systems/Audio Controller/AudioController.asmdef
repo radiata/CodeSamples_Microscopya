@@ -1,0 +1,22 @@
+{
+    "name": "AudioController",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a892d33e90973c9439493ab8ade12773",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:416f11bdfbd2db244be529feec5db14e",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

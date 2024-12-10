@@ -1,0 +1,20 @@
+{
+    "name": "Character.SpriteManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7aee1e6b9506a4643ab8ca78397b5dc5",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:de3c9289f86663b459c701515583384f",
+        "GUID:b951562470e83a4439f9db37d9547e65",
+        "GUID:5423e5c5c979cef46a026367cf1d8893"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

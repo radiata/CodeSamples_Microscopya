@@ -1,0 +1,18 @@
+{
+    "name": "NavigationObject.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7aee1e6b9506a4643ab8ca78397b5dc5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

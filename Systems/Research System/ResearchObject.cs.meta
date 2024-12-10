@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 106a6b7dd36597b42a3430f84cf0ac89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - magnifyingGlass: {instanceID: 0}
+  - primaryLabelPin: {instanceID: 0}
+  - particleAnimation: {fileID: 2388377125622000830, guid: 20d5f5493d52bfd40b3965420b2c2afb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

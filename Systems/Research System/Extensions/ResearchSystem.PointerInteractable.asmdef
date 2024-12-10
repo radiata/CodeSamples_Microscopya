@@ -1,0 +1,17 @@
+{
+    "name": "ResearchSystem.PointerInteractable",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dfde82eae4e29fb49a08e44bc6359a12",
+        "GUID:1ed540270d13d784daf1c9899a8d6435"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

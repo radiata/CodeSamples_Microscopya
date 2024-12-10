@@ -1,0 +1,17 @@
+{
+    "name": "MultiLanguage.Extensions.StartUp",
+    "rootNamespace": "",
+    "references": [
+        "StartUp",
+        "MultiLanguage.LanguageSetting"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

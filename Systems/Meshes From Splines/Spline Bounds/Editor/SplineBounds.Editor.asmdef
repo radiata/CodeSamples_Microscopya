@@ -1,0 +1,20 @@
+{
+    "name": "SplineBounds.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b2ea839bf385e54eb482c92a0606237",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:68d8e1945c28af94d8201afd03fac7b0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

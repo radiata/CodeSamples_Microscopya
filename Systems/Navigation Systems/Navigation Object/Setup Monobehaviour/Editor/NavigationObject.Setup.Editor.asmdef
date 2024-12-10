@@ -1,0 +1,28 @@
+{
+    "name": "NavigationObject.Setup.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:27d7b05624678ca4ca53ef8b05577d3b",
+        "GUID:c11cf8f164511624fb8098b764db4504",
+        "GUID:8c4dd21966739024fbd72155091d199e",
+        "GUID:21d1eb854b91ade49bc69a263d12bee2",
+        "GUID:e43142fc3fec6554980dde6126631f1d",
+        "GUID:7600883fc0eafdb489d47df54182c6a8",
+        "GUID:d4cc9813f784f0f4381d69104bc82b5b",
+        "GUID:1b2ea839bf385e54eb482c92a0606237",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:68d8e1945c28af94d8201afd03fac7b0",
+        "GUID:86c9d8e67265f41469be06142c397d17"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

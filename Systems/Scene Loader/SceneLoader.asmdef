@@ -1,0 +1,23 @@
+{
+    "name": "SceneLoader",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:74015dc779edf384f93aa3cc23b4043a",
+        "GUID:3b519b1f0f060bc40b812a1dd49709ab",
+        "GUID:1d7c91920989a3c4691c0df1120d76f3",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547",
+        "GUID:416f11bdfbd2db244be529feec5db14e",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:3c54b6f3427d0d54dbfeb3654b23f3d4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

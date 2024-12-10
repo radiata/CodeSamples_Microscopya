@@ -1,0 +1,16 @@
+{
+    "name": "UIHitDetection",
+    "rootNamespace": "",
+    "references": [
+        "GUID:181207092f284514cbdb2f8db2e614e7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

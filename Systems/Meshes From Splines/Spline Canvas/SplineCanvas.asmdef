@@ -1,0 +1,20 @@
+{
+    "name": "SplineCanvas",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0558d7e18bb4dc74e91a8529b82f1865",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:68d8e1945c28af94d8201afd03fac7b0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "CharacterNavigation.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:93d9624d4511b134bb4042178bd25bde",
+        "GUID:68d8e1945c28af94d8201afd03fac7b0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

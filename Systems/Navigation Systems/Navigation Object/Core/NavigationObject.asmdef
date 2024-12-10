@@ -1,0 +1,21 @@
+{
+    "name": "NavigationObject",
+    "rootNamespace": "",
+    "references": [
+        "GUID:21d1eb854b91ade49bc69a263d12bee2",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:1b2ea839bf385e54eb482c92a0606237",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

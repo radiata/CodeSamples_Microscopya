@@ -1,0 +1,18 @@
+{
+    "name": "BehaviourRequest.BehaviourRequestHandler",
+    "rootNamespace": "",
+    "references": [
+        "GUID:37acb412e40811747b2ecec501e566fa",
+        "GUID:97ae257ff696e0749b71f5a337ab8b41",
+        "GUID:c72ddb9d0f8e61d40b5daf25602e562a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

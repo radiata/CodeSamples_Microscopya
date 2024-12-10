@@ -1,0 +1,18 @@
+{
+    "name": "AudioController.PauseRequest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:37acb412e40811747b2ecec501e566fa",
+        "GUID:74015dc779edf384f93aa3cc23b4043a",
+        "GUID:3ff19fedd01969b4e8348d63683a5b87"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

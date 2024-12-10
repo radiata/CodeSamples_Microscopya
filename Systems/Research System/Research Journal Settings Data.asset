@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852696bc3ea98374a8649d41a77f8a2c, type: 3}
+  m_Name: Research Journal Settings Data
+  m_EditorClassIdentifier: 
+  emptyButtonSprite: {fileID: 21300000, guid: 01ef18096f7a59a4faad692e13c193a5, type: 3}
+  lockedButtonSprite: {fileID: 21300000, guid: d1d6773d911fc9046a2b47464928e23b, type: 3}
+  lockedText: 
+  onClick_UnlockedSound: 2
+  onClick_LockedSound: 3

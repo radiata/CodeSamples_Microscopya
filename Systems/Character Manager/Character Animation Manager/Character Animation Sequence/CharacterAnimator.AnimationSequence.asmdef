@@ -1,0 +1,16 @@
+{
+    "name": "CharacterAnimator.AnimationSequence",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e52ed8b1bfae0a74dbb901b982116490"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ApplicationSettings.StartUp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4a6a12072c907b0488ff0842a9bbaade",
+        "GUID:416f11bdfbd2db244be529feec5db14e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "ResearchSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1ed540270d13d784daf1c9899a8d6435"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

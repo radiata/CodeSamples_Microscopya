@@ -1,0 +1,17 @@
+{
+    "name": "InputHandler.ProfilerExtensions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0074b1a385cde294790b5b23f60f42d2",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

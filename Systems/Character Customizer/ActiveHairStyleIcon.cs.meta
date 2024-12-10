@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b004524339855474eaaba7588fa8dcca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterHairOptions_SO: {fileID: 11400000, guid: ad05a7e2df785154f82d841335e12f41, type: 2}
+  - iconImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

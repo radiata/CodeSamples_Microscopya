@@ -1,0 +1,22 @@
+public enum SoundEffect
+{
+    None = -1,
+    TrophyNotification = 0,
+    HintOpened = 1,
+    GenericConfirm = 2,
+    GenericCancel = 3,
+    GenericDelivered = 4,
+    GenericDropped = 5,
+    GenericCrank = 6,
+    AdenosineDelivered = 7,
+    TubulinDelivered = 8,
+    TubulinDropped = 9,
+    GearDelivered = 10,
+    GearDropped = 11,
+    PaddleSwitch = 12,
+    OxygenProtonDelivered = 13,
+    OxygenElectronDelivered = 14,
+    ATPSynthasePress = 15,
+    ATPSynthaseCrank = 16,
+    MotorProteinStep = 17,
+}

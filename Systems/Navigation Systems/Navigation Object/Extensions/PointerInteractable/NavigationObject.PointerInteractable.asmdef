@@ -1,0 +1,20 @@
+{
+    "name": "NavigationObject.PointerInteractable",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7aee1e6b9506a4643ab8ca78397b5dc5",
+        "GUID:dfde82eae4e29fb49a08e44bc6359a12",
+        "GUID:5423e5c5c979cef46a026367cf1d8893",
+        "GUID:15bb7d13378e7324ea98270057a1b163",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

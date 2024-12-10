@@ -1,0 +1,18 @@
+{
+    "name": "LoadingScreen.StartUp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:416f11bdfbd2db244be529feec5db14e",
+        "GUID:d11e34ceb4a5e1943abae9cd9ff75f9b",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

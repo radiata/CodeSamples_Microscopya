@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 568865abdbd88694abb8d06e093aaa2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - label_GameObject: {instanceID: 0}
+  - textMeshProUGUI: {instanceID: 0}
+  - labelSpriteRenderer: {instanceID: 0}
+  - primaryLabelSprite: {fileID: 21300000, guid: ffca970319a79064c8f8146c8c9f3c44, type: 3}
+  - secondaryLabelSprite: {fileID: 21300000, guid: 27a9ed4ca1da63144a36aeedc260e411, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

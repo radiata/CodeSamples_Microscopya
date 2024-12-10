@@ -1,0 +1,28 @@
+{
+    "name": "Puzzle.ProteinRotation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8e29ed4a4e7edfa4599deee18c13dc90",
+        "GUID:f3778b8cd1613e54cb971efc65517dd8",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:7da6e1c6b01333a43ad3296fab77f59c",
+        "GUID:dfde82eae4e29fb49a08e44bc6359a12",
+        "GUID:7f7d1af65c2641843945d409d28f2e20",
+        "GUID:de3c9289f86663b459c701515583384f",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:62b8dd1ce1626644fa51b596e09430ed",
+        "GUID:267e49adb8b52e1458953fb06ae00d29",
+        "GUID:b951562470e83a4439f9db37d9547e65",
+        "GUID:74015dc779edf384f93aa3cc23b4043a",
+        "GUID:3532751d016ea624e8a1364aef98331b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4605341221763363300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1817769464653754478}
+  m_Layer: 0
+  m_Name: Chain Holder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1817769464653754478
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4605341221763363300}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6459048419144647290}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8021056173930930805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6459048419144647290}
+  - component: {fileID: 4157126007710568861}
+  m_Layer: 0
+  m_Name: MRNA Chain Prefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6459048419144647290
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8021056173930930805}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1817769464653754478}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4157126007710568861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8021056173930930805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ec770d14ad5864b82a52497e5e8690, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chainHolder: {fileID: 1817769464653754478}
+  activeIndex: 4
+  mRNAWidth: 7
+  template: {fileID: 7767530172299942221, guid: 27b46673a78deee469415143754e3d92, type: 3}
+  mRNACap: {fileID: 2098475310743195679, guid: 5e8bf0af601acac498230927394bd046, type: 3}
+  mRNATail: {fileID: 1925545441260996690, guid: 3bf0a1a3e2c7ed0468513169e3d31328, type: 3}
+  left_A: {fileID: 21300000, guid: 6c1f7f3815a933349a9f5aacfec08263, type: 3}
+  left_C: {fileID: 21300000, guid: b747c1d258b7a0e48b6b9a8866087c13, type: 3}
+  left_G: {fileID: 21300000, guid: c047b4bad78f5d5489a574168ffe00cf, type: 3}
+  left_U: {fileID: 21300000, guid: 44fc3c798ed8d6d41ba23d61f581d11b, type: 3}
+  center_A: {fileID: 21300000, guid: 34498c69b96894f4898a492e34153f1f, type: 3}
+  center_C: {fileID: 21300000, guid: 61b24abbd802fbc41b7c9499708ed2f0, type: 3}
+  center_G: {fileID: 21300000, guid: bf37050b809f4254e964c09671ec476d, type: 3}
+  center_U: {fileID: 21300000, guid: 0b04388965cefda41a799ba200e4505e, type: 3}
+  right_A: {fileID: 21300000, guid: 44fc3c798ed8d6d41ba23d61f581d11b, type: 3}
+  right_C: {fileID: 21300000, guid: e3cd1f35e520bb5449b290762723c10c, type: 3}
+  right_G: {fileID: 21300000, guid: e6e9eb11d9759b7469b409446441a4cb, type: 3}
+  right_U: {fileID: 21300000, guid: ec5d9fe1b4d467e43b4afe1680b88cfa, type: 3}
+  spriteGreyScale: {fileID: 2100000, guid: ec24f5271b0e28841a089198ff45732f, type: 2}
+  spriteFullColor: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  mRNASets: []
+  ribosomeTopSection: {fileID: 0}
+  chainShiftSpeed: 1

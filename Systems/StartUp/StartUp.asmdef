@@ -1,0 +1,16 @@
+{
+    "name": "StartUp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:91a166ab9cc398b49b931eba6732bc75"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

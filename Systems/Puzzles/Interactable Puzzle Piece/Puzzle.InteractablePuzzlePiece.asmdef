@@ -1,0 +1,18 @@
+{
+    "name": "Puzzle.InteractablePuzzlePiece",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dfde82eae4e29fb49a08e44bc6359a12",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547",
+        "GUID:faa12997003e5f246a0a2d146b6883b9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

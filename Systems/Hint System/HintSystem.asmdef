@@ -1,0 +1,17 @@
+{
+    "name": "HintSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dfde82eae4e29fb49a08e44bc6359a12",
+        "GUID:3ff19fedd01969b4e8348d63683a5b87"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

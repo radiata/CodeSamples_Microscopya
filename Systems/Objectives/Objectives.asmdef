@@ -1,0 +1,19 @@
+{
+    "name": "Objectives",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ce4dd32e88715e74c86086f285298d99",
+        "GUID:c5c4ee122cf6c3346bae8e408bd8c7cd",
+        "GUID:658c3bec1e2c51440871f0cdac98e8f7",
+        "GUID:92564c23ca16f0f4d86639990575abb1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

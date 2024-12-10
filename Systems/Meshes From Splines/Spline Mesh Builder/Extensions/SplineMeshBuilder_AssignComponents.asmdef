@@ -1,0 +1,19 @@
+{
+    "name": "SplineMeshBuilder_AssignComponents",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7aee1e6b9506a4643ab8ca78397b5dc5",
+        "GUID:21d1eb854b91ade49bc69a263d12bee2",
+        "GUID:9e8e16720f04698418d66f7f0406423e",
+        "GUID:dfde82eae4e29fb49a08e44bc6359a12"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

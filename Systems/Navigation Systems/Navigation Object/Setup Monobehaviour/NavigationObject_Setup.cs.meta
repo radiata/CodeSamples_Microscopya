@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 295f2f0d873cb4b4f826496266777cda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pathCoreSpline: {instanceID: 0}
+  - pathUpperBoundsSpline: {instanceID: 0}
+  - pathLowerBoundsSpline: {instanceID: 0}
+  - interactionUpperBoundsSpline: {instanceID: 0}
+  - interactionLowerBoundsSpline: {instanceID: 0}
+  - navigationSplineMeshBuilder: {instanceID: 0}
+  - interactionSplineMeshBuilder: {instanceID: 0}
+  - navigationTemplateGameObject: {fileID: 8336663974403651796, guid: deed8873539161b40bb1f80c1fe15347, type: 3}
+  - interactionTemplateGameObject: {fileID: 8336663974403651796, guid: 3ba803ea3e0cb964b9c167adea30a399, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

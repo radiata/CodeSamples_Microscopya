@@ -1,0 +1,16 @@
+{
+    "name": "MultiLanguage.LanguageSetting",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b951562470e83a4439f9db37d9547e65"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,31 @@
+{
+    "name": "UserInterface",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547",
+        "GUID:3ff19fedd01969b4e8348d63683a5b87",
+        "GUID:74015dc779edf384f93aa3cc23b4043a",
+        "GUID:d11e34ceb4a5e1943abae9cd9ff75f9b",
+        "GUID:c72ddb9d0f8e61d40b5daf25602e562a",
+        "GUID:37acb412e40811747b2ecec501e566fa",
+        "GUID:97ae257ff696e0749b71f5a337ab8b41",
+        "GUID:92564c23ca16f0f4d86639990575abb1",
+        "GUID:1ed540270d13d784daf1c9899a8d6435",
+        "GUID:8292d25f3aff2ee43bb506eedff8fe9d",
+        "GUID:da2dfb1e8e211254b8dc0773a873ee10",
+        "GUID:43215d6e5f6f8a443a063aeaf113364c",
+        "GUID:bba754520e807644d8b5c68ad9910eee",
+        "GUID:a892d33e90973c9439493ab8ade12773",
+        "GUID:0074b1a385cde294790b5b23f60f42d2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

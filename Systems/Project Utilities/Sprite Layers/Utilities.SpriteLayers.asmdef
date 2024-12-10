@@ -1,0 +1,16 @@
+{
+    "name": "Utilities.SpriteLayers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4ca207e2187ccbd429b33db4e48ed88e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

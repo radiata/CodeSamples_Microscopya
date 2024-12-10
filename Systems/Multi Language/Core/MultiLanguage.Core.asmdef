@@ -1,0 +1,16 @@
+{
+    "name": "MultiLanguage.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bba754520e807644d8b5c68ad9910eee"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

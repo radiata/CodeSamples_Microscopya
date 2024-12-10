@@ -1,0 +1,16 @@
+{
+    "name": "ResearchSystem.ResearchModeState",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3c54b6f3427d0d54dbfeb3654b23f3d4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

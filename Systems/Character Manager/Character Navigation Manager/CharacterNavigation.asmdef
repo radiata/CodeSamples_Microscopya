@@ -1,0 +1,23 @@
+{
+    "name": "CharacterNavigation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:305294a84e5901d4aa8b957db6624015",
+        "GUID:8c4dd21966739024fbd72155091d199e",
+        "GUID:7aee1e6b9506a4643ab8ca78397b5dc5",
+        "GUID:181207092f284514cbdb2f8db2e614e7",
+        "GUID:8e95100b2eea4e04cb2af6b2cf1f174e",
+        "GUID:02d55fa448572c44a98a91dc0c703e6a",
+        "GUID:5423e5c5c979cef46a026367cf1d8893",
+        "GUID:8292d25f3aff2ee43bb506eedff8fe9d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

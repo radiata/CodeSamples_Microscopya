@@ -1,0 +1,20 @@
+{
+    "name": "NavigationObject.CompoundNavMesh",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7aee1e6b9506a4643ab8ca78397b5dc5",
+        "GUID:27d7b05624678ca4ca53ef8b05577d3b",
+        "GUID:8c4dd21966739024fbd72155091d199e",
+        "GUID:7600883fc0eafdb489d47df54182c6a8",
+        "GUID:86c9d8e67265f41469be06142c397d17"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Puzzle.Hint",
+    "rootNamespace": "",
+    "references": [
+        "GUID:18054c518d418744080efe4cabf3398a",
+        "GUID:ce5c300e2cb214e479074b5df5e585e9",
+        "GUID:f3778b8cd1613e54cb971efc65517dd8",
+        "GUID:8e29ed4a4e7edfa4599deee18c13dc90",
+        "GUID:73faade9d0ce1824fbc7d7ee8e8c88c1",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

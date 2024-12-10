@@ -1,0 +1,26 @@
+{
+    "name": "CharacterCustomizer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ce4dd32e88715e74c86086f285298d99",
+        "GUID:47481e742189d1a4484c378874d14030",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:74015dc779edf384f93aa3cc23b4043a",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:c5c4ee122cf6c3346bae8e408bd8c7cd",
+        "GUID:99512069fd11483489aa17189a7a369c",
+        "GUID:658c3bec1e2c51440871f0cdac98e8f7",
+        "GUID:2e4f9eaf4c177974f897fa298fb63547",
+        "GUID:d11e34ceb4a5e1943abae9cd9ff75f9b",
+        "GUID:0074b1a385cde294790b5b23f60f42d2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

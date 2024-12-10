@@ -1,0 +1,25 @@
+{
+    "name": "EventSequence",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1d7c91920989a3c4691c0df1120d76f3",
+        "GUID:3f4aef30660e97144be6920790d395f3",
+        "GUID:e52ed8b1bfae0a74dbb901b982116490",
+        "GUID:74015dc779edf384f93aa3cc23b4043a",
+        "GUID:0074b1a385cde294790b5b23f60f42d2",
+        "GUID:d11e34ceb4a5e1943abae9cd9ff75f9b",
+        "GUID:7952291810b24dd46a39348aca2161fc",
+        "GUID:93d9624d4511b134bb4042178bd25bde",
+        "GUID:22ac9468a6a973340bf21446ed4733c0",
+        "GUID:c5c4ee122cf6c3346bae8e408bd8c7cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
